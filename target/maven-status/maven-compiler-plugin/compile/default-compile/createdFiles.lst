@@ -1,0 +1,6 @@
+UserMicroServicePkg\Entity\User.class
+UserMicroServicePkg\Entity\Department.class
+UserMicroServicePkg\UserMicroServiceMainClass.class
+UserMicroServicePkg\Controller\UserController.class
+UserMicroServicePkg\Service\UserService.class
+UserMicroServicePkg\Repository\UserRepository.class
