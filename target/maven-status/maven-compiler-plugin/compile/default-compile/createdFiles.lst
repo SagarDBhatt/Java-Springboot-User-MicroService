@@ -1,6 +1,9 @@
-UserMicroServicePkg\Entity\User.class
 UserMicroServicePkg\Entity\Department.class
 UserMicroServicePkg\UserMicroServiceMainClass.class
+UserMicroServicePkg\Configuration\RestTemplateConfig.class
 UserMicroServicePkg\Controller\UserController.class
 UserMicroServicePkg\Service\UserService.class
+UserMicroServicePkg\Entity\User.class
+UserMicroServicePkg\ResponseTemplate\ResponseTemplate.class
+UserMicroServicePkg\Configuration\EurekaBeanConfig.class
 UserMicroServicePkg\Repository\UserRepository.class

@@ -1,6 +1,9 @@
 C:\dev\repos\IdeaProjects\Repository\Java-Springboot-User-MicroService\src\main\java\UserMicroServicePkg\Repository\UserRepository.java
 C:\dev\repos\IdeaProjects\Repository\Java-Springboot-User-MicroService\src\main\java\UserMicroServicePkg\Entity\User.java
 C:\dev\repos\IdeaProjects\Repository\Java-Springboot-User-MicroService\src\main\java\UserMicroServicePkg\Entity\Department.java
+C:\dev\repos\IdeaProjects\Repository\Java-Springboot-User-MicroService\src\main\java\UserMicroServicePkg\ResponseTemplate\ResponseTemplate.java
 C:\dev\repos\IdeaProjects\Repository\Java-Springboot-User-MicroService\src\main\java\UserMicroServicePkg\Controller\UserController.java
+C:\dev\repos\IdeaProjects\Repository\Java-Springboot-User-MicroService\src\main\java\UserMicroServicePkg\Configuration\EurekaBeanConfig.java
+C:\dev\repos\IdeaProjects\Repository\Java-Springboot-User-MicroService\src\main\java\UserMicroServicePkg\Configuration\RestTemplateConfig.java
 C:\dev\repos\IdeaProjects\Repository\Java-Springboot-User-MicroService\src\main\java\UserMicroServicePkg\Service\UserService.java
 C:\dev\repos\IdeaProjects\Repository\Java-Springboot-User-MicroService\src\main\java\UserMicroServicePkg\UserMicroServiceMainClass.java
