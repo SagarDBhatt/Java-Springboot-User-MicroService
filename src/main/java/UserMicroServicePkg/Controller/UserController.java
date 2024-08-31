@@ -7,6 +7,7 @@ import UserMicroServicePkg.ResponseTemplate.ResponseTemplate;
 import UserMicroServicePkg.Service.UserService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -53,6 +54,9 @@ public class UserController {
 
         responseTemplate.setDepartment(department);
 
-        return new ResponseEntity<>(responseTemplate, HttpStatus.OK);
+        HttpHeaders customHeaders = new HttpHeaders();
+        customHeaders.add("cust-controller-header","cust-controller-header-resp");
+
+        return new ResponseEntity<>(responseTemplate, customHeaders, HttpStatus.OK);
     }
 }
